@@ -8,10 +8,11 @@
 3. Neural Network
 
 * Results:
-- Comparing the Accuracies of the 3 models:
+Comparing the Accuracies of the 3 models:
+![image](https://user-images.githubusercontent.com/67882633/109440619-05b73b00-7a87-11eb-813e-fe0072a066ca.png)
 
 
 
 
-
-- Confusion matrix of the final model (Knn) on the 2000 test labels:
+Confusion matrix of the final model (Knn) on the 2000 test labels:
+![image](https://user-images.githubusercontent.com/67882633/109440606-f932e280-7a86-11eb-89d1-28f4baf58e0b.png)
