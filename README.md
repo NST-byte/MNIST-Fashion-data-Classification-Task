@@ -7,7 +7,8 @@
 2. Naive Bayes
 3. Neural Network
 
-* Results:
+* Results:<br>
+
 Comparing the Accuracies of the 3 models:
 ![image](https://user-images.githubusercontent.com/67882633/109440619-05b73b00-7a87-11eb-813e-fe0072a066ca.png)
 
